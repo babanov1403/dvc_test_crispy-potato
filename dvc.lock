@@ -1,0 +1,10 @@
+schema: '2.0'
+stages:
+  test:
+    cmd: python main.py
+    outs:
+    - path: dvclive
+      hash: md5
+      md5: 99e1bbdac42dd4e5e21b97303b659f7e.dir
+      size: 1157164
+      nfiles: 105
